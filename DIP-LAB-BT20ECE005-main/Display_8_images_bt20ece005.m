@@ -1,5 +1,4 @@
-% Digital Image Processing Matlab codes by 
-% Mayank Patidar ( BT20ECE064 )
+% Digital Image Processing Matlab codes by sandesh
 
 % Read the PNG image
 imageData = imread('sample_image.png');
