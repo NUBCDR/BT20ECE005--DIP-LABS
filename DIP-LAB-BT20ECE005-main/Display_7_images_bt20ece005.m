@@ -1,4 +1,4 @@
-% Digital Image Processing Matlab codes by 
+% Digital Image Processing Matlab codes by sandesh
 
 
 % Read the PNG image
